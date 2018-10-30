@@ -1,0 +1,9 @@
+HElP: 
+How to get your token?
+	1)https://vkhost.github.io
+	2)Choose button "VK API"
+	3)Copy the token from the address bar
+How to get id user for spam?
+	1)Go to the user profile for spam
+	2)Choose your photo
+	3)Copy the id from the address bar
